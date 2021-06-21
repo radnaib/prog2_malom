@@ -1,0 +1,170 @@
+Uj jatek indul. A jatekosok:
+Balint vs Boti
+Balint kezd (Vilagos)
+--------------------------------------------------
+Balint lep (Vilagos).
+Letesz: T
+Vilagos figurainak szama kezben: 8 db
+Vilagos figurainak szama a tablan: 1 db
+Sotet figurainak szama a tablan: 0 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: M
+Sotet figurainak szama kezben: 8 db
+Vilagos figurainak szama a tablan: 1 db
+Sotet figurainak szama a tablan: 1 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: N
+Vilagos figurainak szama kezben: 7 db
+Vilagos figurainak szama a tablan: 2 db
+Sotet figurainak szama a tablan: 1 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: U
+Sotet figurainak szama kezben: 7 db
+Vilagos figurainak szama a tablan: 2 db
+Sotet figurainak szama a tablan: 2 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: D
+Vilagos figurainak szama kezben: 6 db
+Vilagos figurainak szama a tablan: 3 db
+Sotet figurainak szama a tablan: 2 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: F
+Sotet figurainak szama kezben: 6 db
+Vilagos figurainak szama a tablan: 3 db
+Sotet figurainak szama a tablan: 3 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: B
+Vilagos figurainak szama kezben: 5 db
+Vilagos figurainak szama a tablan: 4 db
+Sotet figurainak szama a tablan: 3 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: E
+Sotet figurainak szama kezben: 5 db
+Vilagos figurainak szama a tablan: 4 db
+Sotet figurainak szama a tablan: 4 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: A
+Vilagos figurainak szama kezben: 4 db
+Vilagos figurainak szama a tablan: 5 db
+Sotet figurainak szama a tablan: 4 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: C
+Sotet figurainak szama kezben: 4 db
+Vilagos figurainak szama a tablan: 5 db
+Sotet figurainak szama a tablan: 5 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: O
+Vilagos figurainak szama kezben: 3 db
+Vilagos figurainak szama a tablan: 6 db
+Sotet figurainak szama a tablan: 5 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: S
+Sotet figurainak szama kezben: 3 db
+Vilagos figurainak szama a tablan: 6 db
+Sotet figurainak szama a tablan: 6 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: K
+Vilagos figurainak szama kezben: 2 db
+Vilagos figurainak szama a tablan: 7 db
+Sotet figurainak szama a tablan: 6 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: J
+Sotet figurainak szama kezben: 2 db
+Vilagos figurainak szama a tablan: 7 db
+Sotet figurainak szama a tablan: 7 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: W
+Vilagos figurainak szama kezben: 1 db
+Vilagos figurainak szama a tablan: 8 db
+Sotet figurainak szama a tablan: 7 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: Q
+Sotet figurainak szama kezben: 1 db
+Vilagos figurainak szama a tablan: 8 db
+Sotet figurainak szama a tablan: 8 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Letesz: P
+Vilagos figurainak szama kezben: 0 db
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 8 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Letesz: R
+Sotet figurainak szama kezben: 0 db
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 9 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Tolas: W -> V
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 9 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Tolas: M -> I
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 9 db
+1 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Tolas: O -> X
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 9 db
+1 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Tolas: I -> M
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 9 db
+2 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Tolas: T -> W
+Elvesz: J
+Vilagos figurainak szama a tablan: 9 db
+Sotet figurainak szama a tablan: 8 db
+0 lepespar ota nem tortent utes
+
+Boti lep (Sotet).
+Tolas: Q -> T
+Elvesz: D
+Vilagos figurainak szama a tablan: 8 db
+Sotet figurainak szama a tablan: 8 db
+0 lepespar ota nem tortent utes
+
+Balint lep (Vilagos).
+Szabalytalan lepes (U)

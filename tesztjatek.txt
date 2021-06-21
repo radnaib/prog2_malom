@@ -1,0 +1,91 @@
+N // A tesztjáték induljon
+Balint // j1 név
+2 // j2 is Felhasználó
+Viktor // a neve Viktor
+2 // Viktor kezd
+T // Viktor letesz
+A
+C
+X
+N
+F
+J
+E
+D
+E // Viktor elgépelte, szabálytalan lépés
+H // Ezt írta be helyette
+B
+K
+S
+L // Bálint elnézi
+U // Viktor kihasználja, és majd leveszi K-t
+K // Viktor elvesz
+K // Bálint letesz
+G
+Q // Bálint utolsó figurája, jön a lépegetés
+N // Viktor N->M
+M // Viktor N->M
+X // B
+O // B
+U // V
+N // V
+H
+I
+N // V
+U // V
+F // V elveszi F-et
+O
+N
+C
+O
+E
+F
+D
+E
+Q
+P
+G
+H
+N
+L
+G
+U
+N
+I
+K
+L
+E // Bálint levenné, de malomban van
+T // Ehelyett egy szabadon levõt kell választani!
+M
+R
+L
+K
+R
+M
+K
+G
+L
+M
+R
+L
+K
+R
+M
+K // Ezzel Bálint ugrálhat...
+A
+U
+B
+A
+F
+B
+M
+I
+P
+G
+I
+M
+B // Ezzel Bálintnak 2 maradt, Viktor nyert.
+N // Nem szeretnék új játékot.
+
+
+
